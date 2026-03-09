@@ -1,6 +1,6 @@
 # =============================================================================
 #  QUANTUM ENERGY TELEPORTATION IN STRONGLY DRIVEN ATOMIC SYSTEMS
-#  Microscopic two-qubit toy model + 6 plots (each saved separately as PDF)
+#  Microscopic two-qubit model + 6 plots (each saved separately as PDF)
 # =============================================================================
 
 import numpy as np
